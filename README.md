@@ -2,7 +2,8 @@
 
 #
 
-## - Physics Engineer \ - Msc. Space Geophysics 
+- Physics Engineer
+- Msc. Space Geophysics 
 
 
 <!--
