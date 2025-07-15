@@ -3,7 +3,7 @@
 #
 
 - Physics Engineer
-- Msc. Space Geophysics 
+- MSc. in Space Geophysics 
 
 
 <!--
