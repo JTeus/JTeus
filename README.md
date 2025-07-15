@@ -1,9 +1,10 @@
-# 🔭 José Matheus 
+# José Matheus 
 
 #
 
 - Physics Engineer
-- MSc. in Space Geophysics 
+- MSc. in Space Geophysics
+- PhD in Space Geophysics in progress 
 
 
 <!--
