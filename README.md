@@ -4,7 +4,7 @@
 - MSc. in Space Geophysics
 - PhD in Space Geophysics in progress <img src="https://github.com/user-attachments/assets/4ddeae86-5213-427a-8db4-3248e1aed035" alt="ícone" width="35" style="vertical-align: middle;">
 
-- <!-- PhD in Space Geophysics in progress  <img src="https://github.com/user-attachments/assets/4ddeae86-5213-427a-8db4-3248e1aed035" alt="Python" width="35">
+<!-- PhD in Space Geophysics in progress  <img src="https://github.com/user-attachments/assets/4ddeae86-5213-427a-8db4-3248e1aed035" alt="Python" width="15" style="vertical-align: middle;">
 -->
 
 <!--
